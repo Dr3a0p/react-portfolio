@@ -19,6 +19,7 @@ export default function PortfolioContainer() {
     if (currentPage === 'Project') {
       return <Project />;
     }
+    if (currentPage === 'Contact') {
     return <Contact />;
   };
 
@@ -32,4 +33,4 @@ export default function PortfolioContainer() {
       {renderPage()}
     </div>
   );
-}
+  }};
