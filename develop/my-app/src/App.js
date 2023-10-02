@@ -1,8 +1,10 @@
 import React from "react";
-import PortfolioContainer from "./develop/my-app/src/components/PortfolioContainer";
+import PortfolioContainer from "./develop/my-app/src/components";
 
-function App() {
-return <PortfolioContainer />;
+export default function App() {
+    return (
+        <div>
+            <PortfolioContainer  />
+        </div>
+    );
 }
-
-export default App;
