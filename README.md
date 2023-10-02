@@ -1,6 +1,8 @@
 # react-portfolio
 mod20 challenge// portfolio out of react
 
+this application is not fully done. if you review my files i have my home page which is just a small intro. About me which mentions skills ive learned and showing those skills is currently a work in progress but should be uploaded soon, 3rd page is my projects page, again it speaks about the projects I've worked on, I didnt include 3 yet because I completely restarted it actually tomake my own frontend work instead of going with what we previously had and lastly a contact me page. Links will be installed and functioning very soon. Again my portfolio means alot to me and im just trying to practice getting more comfortable as i go without getting too frustrated. thanks if you actually read all of this!
+
 User Story
 
 AS AN employer looking for candidates with experience building single-page applications
