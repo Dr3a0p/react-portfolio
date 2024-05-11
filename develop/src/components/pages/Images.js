@@ -5,7 +5,7 @@ console.log('logo.192.png'); // /logo.84287d09.png
 
 function Header() {
   // Import result is the URL of your image
-  return <img src={url} alt="file:///Users/dre/Desktop/pictures/drea.png" />;
+  return <img src={url} alt="" />;
 }
 
 export default Header;
